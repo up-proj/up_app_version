@@ -1,0 +1,24 @@
+{
+  "message": "success",
+  "status": "200",
+  "data": [
+    {
+      "key": 3,
+      "thumbnail": "Images/FileManagerLite.jpg",
+      "pkg_name": "com.ea.filemanager",
+      "app_title": "File Manager Lite"
+    },
+    {
+      "key": 2,
+      "thumbnail": "Images/DocScannerPDF.jpg",
+      "pkg_name": "com.ea.doc.scanner",
+      "app_title": "Doc Scanner PDF"
+    },
+    {
+      "key": 4,
+      "thumbnail": "Images/FileExplorerPro.jpg",
+      "pkg_name": "com.eact.fileexplorer",
+      "app_title": "File Explorer Pro"
+    }
+  ]
+}
