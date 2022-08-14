@@ -5,7 +5,7 @@
   "data": {
     "app_versions": [{
       "id": 7,
-      "version": "0.13",
+      "version": "0.14",
       "platform": "android",
       "buggy": "no",
       "status": "released",
