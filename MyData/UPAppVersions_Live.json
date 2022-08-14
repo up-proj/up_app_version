@@ -1,7 +1,7 @@
 {
   "app_versions": [{
     "id": 5.0,
-    "version": "0.12",
+    "version": "0.13",
     "platform": "android",
     "buggy": "yes",
     "status": "released",
