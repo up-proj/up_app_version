@@ -5,9 +5,9 @@
   "data": {
     "app_versions": [{
       "id": 7,
-      "version": "0.03",
+      "version": "0.13",
       "platform": "android",
-      "buggy": "no",
+      "buggy": "yes",
       "status": "released",
       "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
     }, {
