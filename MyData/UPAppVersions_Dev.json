@@ -1,24 +1,75 @@
 {
-  "message": "success",
-  "status": "200",
-  "data": [
-    {
-      "key": 3,
-      "thumbnail": "Images/FileManagerLite.jpg",
-      "pkg_name": "com.ea.filemanager",
-      "app_title": "File Manager Lite"
-    },
-    {
-      "key": 2,
-      "thumbnail": "Images/DocScannerPDF.jpg",
-      "pkg_name": "com.ea.doc.scanner",
-      "app_title": "Doc Scanner PDF"
-    },
-    {
-      "key": 4,
-      "thumbnail": "Images/FileExplorerPro.jpg",
-      "pkg_name": "com.eact.fileexplorer",
-      "app_title": "File Explorer Pro"
+  "status": "success",
+  "statusCode": 200,
+  "message": "OK",
+  "data": {
+    "app_versions": [
+      {
+        "id": 7,
+        "version": "0.13",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      },
+      {
+        "id": 6,
+        "version": "0.12",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      },
+      {
+        "id": 5,
+        "version": "0.11",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "version": "0.10",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "version": "0.09",
+        "platform": "android",
+        "buggy": "yes",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      },
+      {
+        "id": 2,
+        "version": "0.00",
+        "platform": "ios",
+        "buggy": "no",
+        "status": "pending",
+        "notes": ""
+      },
+      {
+        "id": 1,
+        "version": "0.14",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "Being used for recommended update option\r\nhttps://drive.google.com/file/d/1Pe3JNLYObX-W6wnki9VE04nGkgmiCpFH/view?usp=sharing"
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "count": 7,
+      "per_page": 20,
+      "sort_by": "id",
+      "sort_order": "DESC"
     }
-  ]
+  },
+  "error": null,
+  "resp_datetime": "2022-08-14 07:48:00"
 }
