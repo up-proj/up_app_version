@@ -2,7 +2,50 @@
   "status": "success",
   "statusCode": 200,
   "message": "OK",
-  "data": null,
+  "data": {
+    "app_versions": [
+      {
+        "id": 24,
+        "version": "1.32",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1da-qaqS5m7hQ1rLYde_R9tXPiL-IxNvi/view?usp=sharing"
+      },
+      {
+        "id": 23,
+        "version": "1.31",
+        "platform": "android",
+        "buggy": "yes",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1da-qaqS5m7hQ1rLYde_R9tXPiL-IxNvi/view?usp=sharing"
+      },
+      {
+        "id": 22,
+        "version": "1.30",
+        "platform": "android",
+        "buggy": "yes",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1da-qaqS5m7hQ1rLYde_R9tXPiL-IxNvi/view?usp=sharing"
+      },
+      {
+        "id": 21,
+        "version": "1.29",
+        "platform": "android",
+        "buggy": "yes",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1da-qaqS5m7hQ1rLYde_R9tXPiL-IxNvi/view?usp=sharing"
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "pages": 2,
+      "count": 23,
+      "per_page": 20,
+      "sort_by": "id",
+      "sort_order": "DESC"
+    }
+  },
   "error": null,
-  "resp_datetime": "2022-08-14 07:48:00"
+  "resp_datetime": "2026-05-04 10:16:51"
 }
