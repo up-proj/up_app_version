@@ -5,6 +5,14 @@
   "data": {
     "app_versions": [
       {
+        "id": 25,
+        "version": "1.33",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1da-qaqS5m7hQ1rLYde_R9tXPiL-IxNvi/view?usp=sharing"
+      },
+      {
         "id": 24,
         "version": "1.32",
         "platform": "android",
@@ -39,8 +47,8 @@
     ],
     "pagination": {
       "page": 1,
-      "pages": 2,
-      "count": 23,
+      "pages": 1,
+      "count": 5,
       "per_page": 20,
       "sort_by": "id",
       "sort_order": "DESC"
