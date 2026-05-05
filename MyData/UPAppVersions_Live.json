@@ -5,10 +5,18 @@
   "data": {
     "app_versions": [
       {
+        "id": 100018,
+        "version": "1.33",
+        "platform": "android",
+        "buggy": "no",
+        "status": "released",
+        "notes": "https://drive.google.com/file/d/1R-Cy8Q0uRJARiF13eUD-i2HABPTYWCNb/view?usp=sharing"
+      },
+      {
         "id": 100017,
         "version": "1.32",
         "platform": "android",
-        "buggy": "no",
+        "buggy": "yes",
         "status": "released",
         "notes": "https://drive.google.com/file/d/1R-Cy8Q0uRJARiF13eUD-i2HABPTYWCNb/view?usp=sharing"
       },
@@ -40,7 +48,7 @@
     "pagination": {
       "page": 1,
       "pages": 1,
-      "count": 4,
+      "count": 5,
       "per_page": 20,
       "sort_by": "id",
       "sort_order": "DESC"
